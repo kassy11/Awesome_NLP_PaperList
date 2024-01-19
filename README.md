@@ -1,5 +1,17 @@
 # Awesome_NLP_PaperList
 
+🤖A list of PaperList of NLP related papers on Github.
+
+<p align="center">
+    <a href="https://awesome.re">
+        <img alt="awesome", src="https://awesome.re/badge.svg">
+    </a>
+</p>
+
+<p align="center">
+  <img src="./image.png" width="50%">
+</p>
+
 ## LLM
 - [patrick-tssn/Awesome-Colorful-LLM](https://github.com/patrick-tssn/Awesome-Colorful-LLM)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/patrick-tssn/Awesome-Colorful-LLM?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/patrick-tssn/Awesome-Colorful-LLM.svg?style=social&label=Star)
 
